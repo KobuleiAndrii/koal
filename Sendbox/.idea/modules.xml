@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sendbox.iml" filepath="$PROJECT_DIR$/Sendbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sendbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sendbox_main.iml" group="Sendbox" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sendbox_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Sendbox_test.iml" group="Sendbox" />
+    </modules>
+  </component>
+</project>
